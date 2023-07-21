@@ -1,0 +1,17 @@
+body{
+    color:red;
+}
+.content{
+    display: flex;
+    gap:100px;
+}
+.leftside{
+    border:2px solid grey;
+    height: 100vh;
+    padding:100px;
+}
+form{
+    border-bottom: 2px solid red;
+    padding:10px;
+}
+
